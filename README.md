@@ -1,128 +1,82 @@
-# Google-Maps-Data-Scraper-PRO-Plus
+# Google-Maps-Data-Scraper-PRO-plus
 
-https://s3.envato.com/files/293433608/CCBackgroundImage590x300.jpg
+![Application Banner](https://s3.envato.com/files/293433608/CCBackgroundImage590x300.jpg)
 
 ## Overview
-
-**Google-Maps-Data-Scraper-PRO-Plus** is a professional data scraping application designed for extracting maximum useful information from Google Maps and the websites of organizations. This tool operates directly from the Google Maps site without requiring Google API access. With unlimited data extraction capabilities, users can easily scrape essential data for lead generation and other purposes.
-
----
+The **Google-Maps-Data-Scraper-PRO-plus** is a professional data scraper designed to extract maximum useful information from Google Maps and the websites of listed organizations. With its user-friendly interface, the application provides seamless data scraping directly from the Google Maps site without requiring a connection to the Google API. The scraper allows unlimited data extraction with just a few clicks.
 
 ## Key Features
+- **Effortless Data Extraction**: Extract data such as phone numbers, addresses, working hours, descriptions, website URLs, and more.
+- **Website Integration**: Automatically visits listed websites to extract additional details like emails, social media links (Facebook, Twitter, YouTube, Yelp, etc.), and review texts.
+- **High-Quality Photos**: Downloads and saves organization photos in high-quality JPG format.
+- **Filtering Options**:
+  - Filter organizations by rating (e.g., between 3 and 4.5 stars).
+  - Filter by the presence or absence of reviews.
+  - Filter reviews by their length.
+- **Multi-GEO and Keyword Search**: Specify cities, regions, or entire countries as your geolocation for extraction.
+- **Data Export**: Export results in multiple formats:
+  - **XLSX**
+  - **CSV**
+  - **JSON**
+  - **MySQL**
+  - **XML**
+- **Parallel Processing**: Simultaneously scroll through organization lists and extract detailed data.
 
-- **Data Extraction**:
-  - Phone numbers, addresses, working hours, organization descriptions, and website URLs.
-  - Social media links (Facebook, Twitter, Instagram, LinkedIn, YouTube) and emails from linked websites.
-  - Reviews (text and photos) and organization photos in high quality.
-  
-- **Filters**:
-  - Filter organizations by rating range or the presence of reviews.
-  - Filter reviews by length for targeted data extraction.
-
-- **Geolocation Flexibility**:
-  - Specify a city, region, or entire country for data scraping.
-  - Extract data using multiple GEO locations and keywords.
-
-- **User-Friendly Interface**:
-  - Simple operation mimicking user behavior for seamless data scraping.
-  - Built-in Google Chrome browser for data retrieval.
-
-- **Data Export Options**:
-  - Export data in **XLSX**, **CSV**, **JSON**, **SQL (MySQL)**, and **XML** formats.
-  - Photos saved in **JPG** format with folder organization.
-
----
-
-## What the App Collects
-
-### From Google Maps Organization Cards:
-- Organization link
+## What Data Can Be Extracted?
+### From Google Maps:
+- Organization card link
 - Company name
-- Total rating and number of reviews
-- Price policy
+- Total rating (1 to 5 stars)
+- Number of reviews
+- Price range ($, $$, $$$, $$$$)
 - Category
-- Address and location details
+- Address (including city and region)
+- Location description
 - Website URL
-- Contact phone number
+- Phone number
 - Plus code
 - Working hours
-- Open/Closed status
-- Latitude and longitude
+- Open/closed status
+- Coordinates (latitude and longitude)
 - Short description
 
-### From Linked Websites:
-- Emails
-- Social media links: Facebook, Instagram, Twitter, LinkedIn, YouTube
+### From Organization Websites:
+- Email addresses
+- Facebook, Instagram, Twitter, LinkedIn, and YouTube links
 - Yelp and TripAdvisor links
 - Contact Us page link
+- Text and photos of all reviews
 
-### Additional Data:
-- All reviews: text, rating, and photos.
-- High-quality photos of the organization.
-
----
+### Images:
+- All organization photos (saved as JPG files)
 
 ## How It Works
+1. **Download and Install**: Download the application and install it on your Windows system.
+2. **Set Parameters**: Enter the geolocation and keyword(s) for your search.
+3. **Start Scraping**: Click "Start," and the app will begin extracting data.
+4. **Export Results**: Once completed, export the data to your preferred format.
 
-1. **Setup**:
-   - Download the program.
-   - Enter the desired geolocation and search keyword.
-
-2. **Start**:
-   - Click “Start” and let the application handle the rest.
-
-3. **Filter**:
-   - Use available filters to narrow down results (e.g., rating, review presence).
-
-4. **Export**:
-   - Navigate to the "Results" tab, select a project, and export the data in your preferred format.
-
----
+## Application Limitations
+- **Google Maps Layout Changes**: Occasionally, Google Maps updates its layout, which may temporarily disrupt the scraper. Updates to the program will be provided as soon as possible.
 
 ## System Requirements
-
-- **Software**:
+- **Operating System**: Windows 7, 8, 10
+- **RAM**: 1GB or more
+- **Disk Space**: Minimum 1GB free space on the C drive
+- **Dependencies**:
   - VC++ Redistributable 2019 (x86 and x64)
   - .NET Framework 4.7.2
-- **Hardware**:
-  - Minimum 1 GB RAM available.
-  - Minimum 1 GB free space on the C: drive.
-- **Operating System**:
-  - Windows 7, Windows 8, or Windows 10.
 
----
+## How to Export Data
+1. Go to the "Results" tab in the application.
+2. Select the completed project.
+3. Click the "Export" button and choose a directory.
+4. The application will create files in the selected format and save the downloaded images in a folder.
 
-## Limitations
+## Use Cases
+- **Lead Generation**: Extract business contact details for marketing campaigns.
+- **Market Analysis**: Analyze ratings, reviews, and categories for business insights.
+- **Research**: Gather comprehensive data for academic or professional projects.
 
-- **Google Maps Layout Updates**:
-  - The app may temporarily stop working if Google Maps changes its layout. Updates are provided promptly to address such issues.
-
----
-
-## Usage Scenarios
-
-- **Lead Generation**:
-  - Collect contact details of potential clients or partners.
-- **Market Research**:
-  - Analyze competitors, customer reviews, and ratings.
-- **Data Archiving**:
-  - Store organization details and reviews for offline access or analysis.
-
----
-
-## Exporting Results
-
-- Access your completed projects via the "Results" tab.
-- Choose a directory for export.
-- The application generates the output file (XLSX/CSV/JSON/SQL/XML) and a folder containing downloaded images.
-
----
-
-## Why Choose Google-Maps-Data-Scraper-PRO-Plus?
-
-- Unlimited data extraction.
-- Simple and intuitive operation.
-- Comprehensive filtering and export options.
-- Reliable performance with regular updates.
-
-Start simplifying your data scraping process with **Google-Maps-Data-Scraper-PRO-Plus** today!
+## Contact and Support
+For assistance, updates, or inquiries, please contact our support team or visit our website.
