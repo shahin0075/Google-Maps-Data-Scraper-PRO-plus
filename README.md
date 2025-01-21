@@ -1,6 +1,6 @@
 # Google-Maps-Data-Scraper-PRO-plus
 
-![Application Banner]([https://s3.envato.com/files/293433608/CCBackgroundImage590x300.jpg](https://s3.envato.com/files/406242681/CCBackgroundImage590x300.jpg))
+![Application Banner](https://s3.envato.com/files/406242681/CCBackgroundImage590x300.jpg)
 
 ## Overview
 The **Google-Maps-Data-Scraper-PRO-plus** is a professional data scraper designed to extract maximum useful information from Google Maps and the websites of listed organizations. With its user-friendly interface, the application provides seamless data scraping directly from the Google Maps site without requiring a connection to the Google API. The scraper allows unlimited data extraction with just a few clicks.
